@@ -1,0 +1,441 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.A1{
+    background: #191919;
+    padding: 40px;
+}
+
+.A3{
+    color: white;
+    margin-right: 850px;
+}
+
+.A5{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+
+.A4{
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+    transition: .2s linear;
+}
+
+.A4:hover{
+    color: #118DA8;
+    transition: .2s linear;
+    font-size: 19px;
+}
+
+.A6{
+    background: #191919;
+    padding: 40px;
+    display: flex;
+
+}
+
+.A8{
+    color: white;
+    width: 526px;
+    height: 176px;
+    font-size: 70px;
+    margin-top: 250px;
+}
+
+.A7{
+    margin-left: 50px;
+}
+
+.A9{
+    color: white;
+    margin-top: 80px;
+}
+
+.A10{
+    display: flex;
+    width: 31px;
+    height: 32px;
+    margin-left: 900px;
+}
+
+.A11{
+    margin-left: 15px;
+}
+
+.A12{
+    color: white;
+    width: 513px;
+    height: 80px;
+    font-size: 64px;
+}
+
+.button1{
+    color: red;
+    width: 178px;
+    height: 51px;
+    background: #118DA8;
+    border-radius: 6px;
+    transition: .2s linear;
+    border: none;
+}
+
+.button1:hover{
+    color: red;
+    background: yellow;
+    transition: .2s linear;
+}
+
+.A11{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.A14{
+    width: 1300px;
+    height: 545px;
+    background: #000000;
+    border-radius: 32px;
+    display: flex;
+    transition: .2s linear;
+}
+
+.A14:hover{
+    background:aqua;
+    transition: .2s linear;
+    box-shadow: 0px 0px 40px red;
+}
+
+
+.img1{
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.button2{
+    color: white;
+    width: 73px;
+    height: 27px;
+    background: #191919;
+    border-radius: 6px;
+    transition: .2s linear;
+    border: none;
+}
+
+.button2:hover{
+    color: red;
+    background: yellow;
+    transition: .2s linear;
+}
+
+.A15{
+    color: #118DA8;
+    margin-top: 30px;
+}
+
+.A16{
+    color: white;
+    width: 701px;
+    height: 141px;
+    font-size: 64px;
+    margin-top: 20px;
+}
+
+.A17{
+    color: rgb(196, 196, 196);
+    width: 757px;
+    height: 99px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.A18{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.button3{
+    color: white;
+    width: 104px;
+    height: 27px;
+    background: #191919;
+    border-radius: 6px;
+    transition: .2s linear;
+    border: none;
+}
+
+.button3:hover{
+    color: red;
+    background: yellow;
+    transition: .2s linear;
+}
+.A19{
+    width: 1300px;
+    height: 545px;
+    background: #000000;
+    border-radius: 32px;
+    display: flex;
+    transition: .2s linear;
+    margin-top: 40px;
+}
+
+.A19:hover{
+    background:aqua;
+    transition: .2s linear;
+    box-shadow: 0px 0px 40px red;
+}
+
+.A20{
+    width: 1300px;
+    height: 545px;
+    background: #000000;
+    border-radius: 32px;
+    display: flex;
+    transition: .2s linear;
+    margin-top: 40px;
+}
+
+.A20:hover{
+    background:aqua;
+    transition: .2s linear;
+    box-shadow: 0px 0px 40px red;  
+}
+
+.A22{
+    display: flex;    
+}
+
+.A24{
+    background: #191919;
+    padding: 250px;
+}
+
+.A25{
+    color: #118DA8;
+    margin-top: 20px;
+}
+
+.A26{
+    color: white;
+    width: 496px;
+    height: 80px;
+    font-size: 65px;
+    margin-top: 20px;
+}
+
+.A27{
+    color: rgb(165, 165, 165);
+    width: 556px;
+    height: 67px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.A28{
+    color: rgb(165, 165, 165);
+    width: 556px;
+    height: 67px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.img3{
+   width: 450px;
+   height: 543px; 
+}
+
+.A30{
+    background: #191919;
+    padding: 50px;
+}
+
+.A31{
+    width: 1300px;
+    height: 387px;
+    background: #000000;
+    border-radius: 32px;
+    display: flex;
+    transition: .2s linear;
+}
+
+.A31:hover{
+    background: aqua;
+    transition: .2s linear;
+    box-shadow: 0px 0px 40px red;
+}
+
+.A32{
+    width: 522px;
+    height: 82px;
+    background: #474747;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    transition: .2s linear;
+}
+
+.A32:hover{
+    background: yellow;
+    transition: .2s linear;
+}
+
+.A34{
+    width: 431px;
+    height: 159px;
+    font-size: 72px;
+}
+
+.A35{
+    padding: 50px;
+}
+
+.A36{
+    margin-top: 60px;
+    margin-left: 190px;
+}
+
+.A37{
+    width: 522px;
+    height: 82px;
+    background: #474747;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.A37:hover{
+    background: yellow;
+    transition: .2s linear;
+}
+
+.buttons{
+    margin-top: 40px;
+}
+
+.button4{
+    color: red;
+    width: 87px;
+    height: 48px;
+    background: #118DA8;
+    border-radius: 6px;
+    transition: .2s linear;
+    border: none;
+}
+
+.button4:hover{
+    color: red;
+    background: yellow;
+    transition: .2s linear;
+}
+
+.A38{
+    background: #191919;
+    padding: 50px;
+}
+
+.A40{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.A41{
+    width: 423px;
+    height: 321px;
+    background: #000000;
+    border: none;
+    border-radius: 32px;
+    padding: 40px;
+    transition: .2s linear;
+}
+
+.A41:hover{
+    background: aqua;
+    transition: .2s linear;
+    box-shadow: 0px 0px 40px red;
+    color: red;
+}
+
+.A42{
+    width: 313px;
+    height: 130px;
+    margin-top: 20px;
+}
+
+.A43{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 30px;
+}
+
+.A44{
+    width: 423px;
+    height: 321px;
+    background: #000000;
+    border: none;
+    border-radius: 32px;
+    padding: 40px;
+    transition: .2s linear;
+}
+
+.A44:hover{
+    background: yellow;
+    transition: .2s linear;
+    box-shadow: 0px 0px 40px red;
+}
+
+.footer{
+    background: #191919;
+    padding: 100px;
+}
+
+.icon1{
+    color: white;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.icon2{
+    color: white;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.icon3{
+    color: white;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.A47{
+    list-style: none;
+}
+
+.A48{
+    color: white;
+    text-decoration: none;
+}
+
+.A49{
+    display: flex;
+    margin-left: 450px;
+}
+
+
+
+
